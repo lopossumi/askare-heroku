@@ -1,7 +1,6 @@
 {
   "autoload": {
     "classmap": [
-      "config/database.php",
       "lib",
       "app/controllers",
       "app/models"]
